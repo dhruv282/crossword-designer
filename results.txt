@@ -1,0 +1,259 @@
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: No Heuristics used
+Time: 0.016415496667226154 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: Forward Checking
+Time: 0.0010446031888326009 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: Degree Heuristic
+Time: 0.37442448139190676 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: Lowest Constraint Value
+Time: 0.28894229729970294 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: Degree Heuristic with Forward Checking
+Time: 0.0014926989873250325 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task1Puzzle.csv
+Heuristic: Lowest Constraint Value with Forward Checking
+Time: 0.0014827489852905274 min
+--------------------------------------
+
+******************************************
+H	O	S	E	S	
+
+#	#	A	#	T	
+
+#	H	I	K	E	
+
+A	#	L	E	E	
+
+L	A	S	E	R	
+
+E	#	#	L	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: No Heuristics used
+Time: 90.00169897476832 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: Forward Checking
+Time: 1.98341406583786 min
+--------------------------------------
+
+******************************************
+#	#	a	b	a	l	o	n	e	#	#	#	
+
+#	#	b	#	#	#	#	#	a	#	#	a	
+
+#	#	a	#	#	#	#	#	c	#	#	b	
+
+#	#	c	#	#	b	a	t	h	e	#	a	
+
+#	#	k	#	#	#	#	a	#	#	#	c	
+
+#	#	#	#	c	#	#	b	a	y	o	u	
+
+#	#	#	#	a	#	#	l	#	a	#	s	
+
+#	d	#	o	b	e	s	e	#	m	#	#	
+
+#	a	#	#	a	#	#	t	#	m	#	#	
+
+a	c	c	e	n	t	#	#	#	e	#	#	
+
+#	e	#	#	a	#	#	#	#	r	#	#	
+
+
+
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: Degree Heuristic
+Time: 90.00168534119923 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: Lowest Constraint Value
+Time: 90.00029171705246 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: Degree Heuristic with Forward Checking
+Time: 90.00092108249665 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle.csv
+Heuristic: Lowest Constraint Value with Forward Checking
+Time: 90.00170634190242 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: No Heuristics used
+Time: 90.0019252816836 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: Forward Checking
+Time: 90.00066641966502 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: Degree Heuristic
+Time: 90.00137302875518 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: Lowest Constraint Value
+Time: 90.00159413417181 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: Degree Heuristic with Forward Checking
+Time: 90.00169914960861 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
+--------------------------------------
+Puzzle: task2Puzzle2.csv
+Heuristic: Lowest Constraint Value with Forward Checking
+Time: 90.00165790716807 min
+Execution ended after 90.0 minutes
+--------------------------------------
+
+
